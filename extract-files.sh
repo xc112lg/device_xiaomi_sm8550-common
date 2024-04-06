@@ -7,7 +7,7 @@
 #
 
 set -e
-
+DEVICE=ishtar
 DEVICE_COMMON=sm8550-common
 VENDOR=xiaomi
 

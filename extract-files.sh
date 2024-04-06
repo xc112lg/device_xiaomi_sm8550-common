@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=sm8550-common
+DEVICE_COMMON=sm8550-common
 VENDOR=xiaomi
 
 # Load extract_utils and do some sanity checks
